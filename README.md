@@ -1,4 +1,4 @@
-\# Cold-Chain Shrinkage Analysis for Company X
+# Cold-Chain Shrinkage Analysis for Company X
 
 
 
